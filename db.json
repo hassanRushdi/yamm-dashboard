@@ -1,0 +1,15 @@
+{
+  "refundOrders": [
+    {
+      "id": "ORD123",
+      "reason": "Damaged Item",
+      "store_name": "Tech Store",
+      "store_logo": "https://via.placeholder.com/40",
+      "store_url": "https://techstore.com",
+      "amount": 99.99,
+      "active": true,
+      "decision": null,
+      "items": [{ "name": "Laptop", "id": "ITM1", "price": 999, "quantity": 1 }]
+    }
+  ]
+}
